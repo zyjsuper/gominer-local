@@ -1,6 +1,4 @@
 package main
-import "math/rand"
-import "time"
 import (
 	"flag"
 	"fmt"
